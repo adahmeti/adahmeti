@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adahmeti
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on java projects
