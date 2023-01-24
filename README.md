@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @adahmeti
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning computer science
+- 
+- 👀 I’m interested in creating programs that makes the life more easier to people.
+- 
+- 🌱 I’m currently learning Java, C, JavaScript, HTML&CSS, JQUERY.
+- 
 - 💞️ I’m looking to collaborate on java projects
