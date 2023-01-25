@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adenis Ahmeti</h1>
-<h3 align="center">I am curretly student in Computer Science</h3>
+<h3 align="center">I am curretly a student in Computer Science</h3>
 
 
 - 🔭 I’m currently working on **Restaurant POS System**
