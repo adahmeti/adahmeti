@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, C**
 
-- ⚡ Fun fact **I trained together with Vandam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
