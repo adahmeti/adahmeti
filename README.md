@@ -1,7 +1,6 @@
-h1 align="center">Hi 👋, I'm Adenis Ahmeti</h1>
+<h1 align="center">Hi 👋, I'm Adenis Ahmeti</h1>
 <h3 align="center">I am curretly student in Computer Science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adahmeti" alt="adahmeti" /></a> </p>
 
 - 🔭 I’m currently working on **Restaurant POS System**
 
